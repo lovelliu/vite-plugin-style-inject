@@ -4,23 +4,23 @@
 
 **[English](./README.md)** ｜ **[中文](./README.zh-CN.md)**
 
-The plugin is used to inject CSS into JS files, so there will not generate CSS files.
-It is mainly used to pack some libraries with fewer styles, for example, A component that has been encapsulated.
+该插件用于将CSS注入到JS文件中，因此不会生成CSS文件。
+它主要用于打包一些样式较少的库，例如一个被封装的组件。
 
-The user using the library will not need to import extrally a CSS file.
+使用该库的用户将**不需要额外引入样式文件**。
 
-- Before
+- 使用之前
 
 ```ts
 import xxxComponent from 'xxx-component';
 import 'xxx-component/dist/xxx.css';
 ```
-- Now
+- 使用之后
 ```ts
 import xxxComponent from 'xxx-component';
 ```
 
-## Install
+## 安装
 
 - npm
 
@@ -30,14 +30,14 @@ npm i vite-plugin-style-inject --save-dev
 - yarn 
 ```bash
 yarn add -D vite-plugin-style-inject
-``
+```
 
 - pnpm
 
 ```bash
 pnpm add -D vite-plugin-style-inject
 ```
-## Usage
+## 使用
 ```ts
 // vite.config.ts
 import { defineConfig } from 'vite';
