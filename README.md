@@ -2,12 +2,12 @@
 
 [![NPM version](https://img.shields.io/npm/v/vite-plugin-style-inject?color=a1b858&label=)](https://www.npmjs.com/package/vite-plugin-style-inject)
 
-**[English](./README.md)** ｜ **[中文](./README.zh-CN.md)**
+English ｜ **[中文](./README.zh-CN.md)**
 
 The plugin is used to inject CSS into JS files, so there will not generate CSS files.
 It is mainly used to pack some libraries with fewer styles, for example, A component that has been encapsulated.
 
-The user using the library will not need to import extrally a CSS file.
+The user using the library will not need to import an additional CSS file.
 
 - Before
 
