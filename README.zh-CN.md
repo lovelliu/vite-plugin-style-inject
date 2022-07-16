@@ -2,7 +2,7 @@
 
 [![NPM version](https://img.shields.io/npm/v/vite-plugin-style-inject?color=a1b858&label=)](https://www.npmjs.com/package/vite-plugin-style-inject)
 
-**[English](./README.md)** ｜ 中文
+**[English](./README.md)** | 中文
 
 该插件用于将CSS注入到JS文件中，因此不会生成CSS文件。
 它主要用于打包一些样式较少的库，例如一个被封装的组件。
