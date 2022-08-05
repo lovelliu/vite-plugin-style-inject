@@ -1,6 +1,6 @@
 # vite-plugin-style-inject
 
-[![NPM version](https://img.shields.io/npm/v/vite-plugin-style-inject?color=a1b858&label=)](https://www.npmjs.com/package/vite-plugin-style-inject)
+[![NPM version](https://img.shields.io/npm/v/vite-plugin-style-inject?color=0960bd)](https://www.npmjs.com/package/vite-plugin-style-inject)
 
 English | **[中文](./README.zh-CN.md)**
 

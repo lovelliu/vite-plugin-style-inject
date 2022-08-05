@@ -41,6 +41,4 @@ function VitePluginStyleInject(styleId = ''): Plugin {
   };
 }
 
-VitePluginStyleInject.default = VitePluginStyleInject;
-
 export default VitePluginStyleInject;
