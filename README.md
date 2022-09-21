@@ -1,4 +1,5 @@
 # vite-plugin-style-inject
+**attention**: I found a better solution to solve this demand, please check out this plugin: [vite-plugin-css-injected-by-js](https://github.com/Marco-Prontera/vite-plugin-css-injected-by-js)
 
 [![NPM version](https://img.shields.io/npm/v/vite-plugin-style-inject?color=3ca4ce)](https://www.npmjs.com/package/vite-plugin-style-inject)
 
